@@ -1,0 +1,21 @@
+{
+  "name": "week-4",
+  "version": "1.0.0",
+  "description": "This is the week we learn about express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "crud"
+  ],
+  "author": "Jeremiah, Sam, John",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.2"
+  }
+}
